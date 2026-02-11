@@ -1,4 +1,4 @@
-module github.com/avos-io/graphusers
+module github.com/neat-no/graphusers/v2
 
 go 1.19
 
